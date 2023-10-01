@@ -623,5 +623,7 @@ app.post("/api/imc", (req, res) => {
 });
 
 
+//  busness logic test 
+
 // make app importable from another files
 module.exports = app;
